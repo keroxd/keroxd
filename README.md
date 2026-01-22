@@ -1,15 +1,26 @@
 ![ae533269539e1a6db39fc225d6c9c4c3](https://github.com/user-attachments/assets/7fb21c65-228b-480c-9ff2-95f7a1bf8d0d)
 
-## Call me "Kero"
+# 👋 Hi there, Call me "Kero" 
 
-A junior UI/UX design & frontend dev from Yangon.
 
-I build modern digital experiences for brands that value clean,
-intentional design. 
-From initial wireframes to the final deployment, I
-bring your vision to life.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=keroxd&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-Open for new projects and collaborations.
+I’ve been immersed in the world of **art and graphic design** since I was a kid. When I discovered coding, it felt like a natural evolution, a way to bring my creative visions to life through interactive digital experiences. 
+
+I specialize in building modern interfaces for brands that value **clean, intentional design**. I love the journey of taking a project from the very first wireframe to the final deployment.
+
+---
+
+### 🚀 What I Do
+* 💎 **Branding & Identity:** Developing visual languages, color systems, and logos.
+* 🎨 **UI/UX Design:** Crafting user-centric designs in Figma & Photoshop.
+* 💻 **Frontend Dev:** Turning designs into responsive code using React & Tailwind.
+* 🏗️ **End-to-End:** Bridging the gap between creative concepts and technical execution.
+* 🤝 **Collaborate:** Open for new projects and creative partnerships!
+
+---
 
 ## 🛠 Tech Stack
 
@@ -27,10 +38,10 @@ Open for new projects and collaborations.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/nahkerodwin))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/keroii27))
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discord.com/users/kero0973)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)(https://kero-portfolio.pages.dev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahkerodwin)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keroii27)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kero0973)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kero-portfolio.pages.dev/)
 
 </div>
 

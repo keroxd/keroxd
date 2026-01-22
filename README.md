@@ -22,6 +22,16 @@ I specialize in building modern interfaces for brands that value **clean, intent
 
 ---
 
+### 🎨 View My Work
+<div align="center">
+  <p>I build digital experiences with a focus on clean aesthetics and intentional design.</p>
+  <a href="https://kero-portfolio.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="40"/>
+  </a>
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,6 +42,8 @@ I specialize in building modern interfaces for brands that value **clean, intent
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
 
 
 <div align="center">

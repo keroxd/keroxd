@@ -15,8 +15,8 @@ I specialize in building modern interfaces for brands that value **clean, intent
 ---
 
 ### 🚀 What I Do
-* 💎 **Branding & Identity:** Developing visual languages, color systems, and logos.
-* 🎨 **UI/UX Design:** Crafting user-centric designs in Figma & Photoshop.
+* 💎 **Branding & Identity:** Developing visual languages, design systems, and colors.
+* 🎨 **UI/UX Design:** Crafting user-centric designs in Figma.
 * 💻 **Frontend Dev:** Turning designs into responsive code using React & Tailwind.
 * 🏗️ **End-to-End:** Bridging the gap between creative concepts and technical execution.
 * 🤝 **Collaborate:** Open for new projects and creative partnerships!

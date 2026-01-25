@@ -3,11 +3,6 @@
 
 # 👋 Hi there, Call me "Kero" 
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=keroxd&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 I’ve been immersed in the world of **art and graphic design** since I was a kid. When I discovered coding, it felt like a natural evolution, a way to bring my creative visions to life through interactive digital experiences. 
 
 I specialize in building modern interfaces for brands that value **clean, intentional design**. I love the journey of taking a project from the very first wireframe to the final deployment.
